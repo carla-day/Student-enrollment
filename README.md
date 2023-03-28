@@ -50,11 +50,11 @@
 
 ### Built With
 
-* [C#](https://css.org/)
+* [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 * [HTML5](https://html5.org/)
 * [JavaScript](https://javascript.org/)
-* [ASP.NET](https://www.djangoproject.com/)
-* [Azure](https://www.python.org/)
+* [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
+* [Azure](https://azure.microsoft.com/en-us/free/search/?&ef_id=CjwKCAjwoIqhBhAGEiwArXT7K65gtAZHHhyr_aoEpyYgJ1IFhMEKnzgaZ0JGfsXmx8-ULdrVb_DD0xoC_s4QAvD_BwE:G:s&OCID=AIDcmm5edswduu_SEM_CjwKCAjwoIqhBhAGEiwArXT7K65gtAZHHhyr_aoEpyYgJ1IFhMEKnzgaZ0JGfsXmx8-ULdrVb_DD0xoC_s4QAvD_BwE:G:s&gclid=CjwKCAjwoIqhBhAGEiwArXT7K65gtAZHHhyr_aoEpyYgJ1IFhMEKnzgaZ0JGfsXmx8-ULdrVb_DD0xoC_s4QAvD_BwE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -76,15 +76,6 @@ This project is created as an MVP Application, the purpose is to host on Microso
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Add registration page
-- [ ] Add login page
-- [ ] Add login/logout icons
-- [ ] Update the style to be more modern
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
