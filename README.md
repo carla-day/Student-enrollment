@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://i.imgur.com/wcvWaFK.png)
+![product screenshot](homePage.png)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -142,3 +142,5 @@ For inspiration, images and code snippets used in the creation of this website.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+[product-screenshot]: homePage.png
